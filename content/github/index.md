@@ -10,6 +10,7 @@ versions:
   ghes: '*'
   ghae: '*'
 children:
+  - /get-api
   - /setting-up-and-managing-your-github-user-account
   - /setting-up-and-managing-your-github-profile
   - /authenticating-to-github
